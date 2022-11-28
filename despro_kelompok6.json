@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "testing-despro",
+  "private_key_id": "811767bb72e1690ef0f75a5eb2332885da6509c3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQDB/yrsveshIgOd\n2RaEZpx8M390AWjn1wFQlE4sw8VSBhsLIv0n4UzjCNA0FIej/64O7RUJPEt1c1GK\nrNwCo6yOSali2cViVheEx51C4qKI8eHGcaU2+TjNYWC0c87UTHtBq2aC7KkLLkiC\nny9k5GNy8UVv9oDTxEpupIH+rOYelfHZX+F8Se2ijEb2MH0RSC1s+KJN12a14Qom\nkV3bZNLVs/dwiQLDndgWjYF0ZrvJbsi1yOVVLfpoSxH7wl2HozqwZh0KP9a//Zq7\nshVsDftsJfLfhgoXJaQPpnMRpuo3NuFR1sgpKZKIGcNu+JRQ9oe75ikgReyrgCZl\nSJbugP3dAgMBAAECgf8FtWt84U0KAeUqap9hI+ghnWJV9oF1Hd6Ws6RmEzqZHj+L\nWJ5ewUKB9FoJ+xk17XJT7Qx+ORTMLMvCBKmF0MKpj185eGJFgodQx1vIRsDoE4tv\nKWBu+W8Hz15NaJJ6V4GNSwZ09flY0lktwxsIVHz/GBp7hk3/7U9UerYDQAIwOYGT\nFy3CCQY9iU9615FSiL1fcWpk0x/R2hBOeN+bNlD+5ky/eELGuPs2SW7MvXFgTDN5\n/TNyREfAC9z9Ss4LDPFlrEhHE5xUaxWWcYs9wi+kF1vtRURYxGK0CORZaG5QNoKR\nlCimJHz/itMg96PRNKQ3Z+9TqwW0HXmsQ75h98ECgYEA4rKTvc1GS9GrTkrelGKh\nSbzIZ74zKnKFbZXdQGwxysy9xopWDhuZDJtBk8y6oto4kKMysvtxj4uMS3zC5wV5\nXRhRTPWsreAzHibaxNj6RPF8YFWs9o83PJtmmkVEobwD2a3ol5O9HiP8guG7XRAs\nTEfSZl15Yrawq5dGT/zXNzECgYEA2xKFOvTEzI4/htf6NKapTw/sqFEajpN2Okyn\nM7BA/HChY2PVxchMd506i4+s6fE7hfoATpkil5kCSK3SWPzh13EGyLJJ7cFa/8be\nK7Yb2HpMr2APqHbp6HXTQ9IM3mnZ4cChXPNlhkNb6AxgQxr+nB6kJDG1WRRjdGoa\nojii3m0CgYEAhCE9h2T70fk09X8h2C7cfxPvYrgzLkxthH/S41esdd17xxqeKb7g\nJ77eK/0p0v2J9pOIW1W+zMGzVdQz7V79a8tep5KRwQ5p/Or8m7szs7dknOmS1GqI\n8WRKGyTAadwiCmAYrzBHDChBZy+WexmQGC3MbimRNH3y3zBepQRjlCECgYAOwhWl\nnh2v5hlTfTNG3r9jKyB3SlduqXJ6hPVynvoRx4inyG77Tv4PxNDP3BL7A5xN70Sc\nBub0rYMg4EzeX9LbD6s0VAZ09OSrfHs1GKSRldOasO79G12woldkJz9ksF7UPYTh\nXShGvjzvyf2mJ6hlXg8SvSKJaL02d3tp2ETolQKBgD37r5h03elBLJFp4gMFlRS+\ndxgT9MaOaGrf6n675oXdoYKp9RldQIpf+ysPVnugT9un+SQu++10AJ/4s+afID6Q\nJmWnybXsQhha4T8UAEG+rBtlR31/6aNjp64ANpXRXf3K1bV5gBSmEC/G7zo5M4o3\nEr/VyuL5LqoYoSfrzK6i\n-----END PRIVATE KEY-----\n",
+  "client_email": "despro-kelompok6@testing-despro.iam.gserviceaccount.com",
+  "client_id": "116029091173613809725",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/despro-kelompok6%40testing-despro.iam.gserviceaccount.com"
+}
