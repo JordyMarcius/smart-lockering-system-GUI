@@ -1,15 +1,1 @@
 # smart-lockering-system-GUI
-
-![Dokumentasi_Minggu2_1](https://user-images.githubusercontent.com/65435469/204355503-67829953-7d88-46ed-ad66-de29e50ade69.PNG)
-![Dokumentasi_Minggu2_2](https://user-images.githubusercontent.com/65435469/204355516-ec1283ea-74d1-4168-b9b4-6f3769ee0701.PNG)
-![Dokumentasi_Minggu2_3](https://user-images.githubusercontent.com/65435469/204355524-946adb1a-32aa-489d-a625-13d05e1084ac.PNG)
-![Dokumentasi_Minggu2_4](https://user-images.githubusercontent.com/65435469/204355536-f987f2cc-95f3-4152-bccb-5dd6456b6955.PNG)
-![Dokumentasi_Minggu3_1](https://user-images.githubusercontent.com/65435469/204355550-313cd06f-f9b2-406d-839c-e499158e75eb.PNG)
-![Dokumentasi_Minggu3_2](https://user-images.githubusercontent.com/65435469/204355562-95bd9cd4-7d51-4206-b6c6-f184ea8eb40c.PNG)
-![Dokumentasi_Minggu3_3](https://user-images.githubusercontent.com/65435469/204355567-85363e93-df5d-494a-bef6-c7d8189b4ff0.PNG)
-![Dokumentasi_Minggu3_4](https://user-images.githubusercontent.com/65435469/204355577-f791a63e-7e28-422e-a4c3-a9340ec3d03d.PNG)
-![Dokumentasi_Minggu4_3](https://user-images.githubusercontent.com/65435469/204355602-6caadf2c-0481-4f95-9c36-e0c5c2971a7c.PNG)
-![Dokumentasi_Minggu4_4](https://user-images.githubusercontent.com/65435469/204355624-f91b70fd-39bc-42ce-9248-de91500f9855.PNG)
-![Dokumentasi_Minggu4_5](https://user-images.githubusercontent.com/65435469/204355629-a1218830-454c-40b6-9635-c7cd30be1a4f.PNG)
-![Dokumentasi_Minggu6_5](https://user-images.githubusercontent.com/65435469/204355742-68bb3ae5-b7a7-4023-a84d-b55b5f51a93e.PNG)
-![Dokumentasi_Minggu6_6](https://user-images.githubusercontent.com/65435469/204355753-c35495cd-581b-438c-8a72-64210dbb7397.PNG)
